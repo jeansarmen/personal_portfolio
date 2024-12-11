@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "Academics",
+    "imageSrc": "https://www.mtsac.edu/academics-and-training/images/continuing_ed_icon.png",
+    "description": "I am a fourth year Computer Science student at North Eastern Mindanao State University - Lianga Campus, deeply committed to my academic journey and continuously striving to excel in my studies. My coursework has provided me with a strong foundation of knowledge and critical thinking skills, which I am eager to apply in real-world contexts. I take pride in actively engaging with my studies to gain a comprehensive understanding of my chosen field."
+  },
+  {
+    "key": 2,
+    "title": "Hobbies",
+    "imageSrc": "https://w7.pngwing.com/pngs/514/876/png-transparent-activity-hobbies-hobby-time-life-style-work-from-home-icon.png",
+    "description": "Outside academics, I enjoy a range of hobbies that allow me to relax and express creativity. Cooking is one of my favorite pastimes, as it combines creativity and practicality while allowing me to explore new flavors and techniques. I also enjoy watching series or movies, which provide an escape into diverse stories and perspectives while sparking my imagination. Whether it’s reading, exploring music, or engaging in outdoor activities, these interests enrich my life and help me maintain a balanced and fulfilling lifestyle."
+  },
+    {
+    "key": 3,
+    "title": "Internships and Experience",
+    "imageSrc": "https://media.istockphoto.com/id/1305960836/vector/mentor-and-mentee-in-workplace-rgb-color-icon.jpg?s=612x612&w=0&k=20&c=9vQ8Hd9QLCiK6L9G90ebJU9H6w3djFKrw2NHuG9AMXA=",
+    "description": "I’ve had the opportunity to intern at Advanced Infinit Technology Solutions Inc., where I gained hands-on experience in quality assurance by testing their system and documenting any errors. This role helped me sharpen my skills in attention to detail, problem-solving, technical documentation, and ensuring the overall quality of the system. My contributions focused on identifying and reporting system issues to improve functionality and user experience. These experiences have further reinforced my passion for my field and equipped me with valuable skills that I look forward to applying in future opportunities."
+  },
+  {
+    "key": 4,
+    "title": "Things I Like",
+    "imageSrc": "https://t4.ftcdn.net/jpg/01/04/19/01/360_F_104190151_JdvrJoSVSuPBZx6kcEfvy6IHEJxD5uZE.jpg",
+    "description": "I appreciate meaningful conversations, innovative ideas, and opportunities to explore different perspectives. Spending time in nature, indulging in good books, and discovering new cuisines are some of the things that bring me joy. I also have a keen interest in technology and how it shapes the world around us."
+  }
+]
